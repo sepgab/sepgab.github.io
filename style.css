@@ -16,6 +16,7 @@ main {
   max-width: 600px;
   margin: auto;
   margin-top: 30px;
+  margin-bottom: 40px;
   padding: 50px;
   background-image: url("images/wood_paper_bgr.png");
   background-position: center;
@@ -245,6 +246,7 @@ text-align: center;
 
   #fb, #li, #gh {
     position: static;
+    height: 50px;
   }
 
   #gh {
